@@ -40,16 +40,14 @@
 ---
 
 ### Thống kê hoạt động GitHub
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
 
   <br><br>
 
@@ -65,3 +63,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Xin+chào!+Tôi+là+Nguyễn+Thị+Ngọc+Thương;Welcome+to+my+GitHub+Profile!" alt="Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NguyenThiNgocThuong&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+
+
