@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Phone-0123.456.789-0E75B6?style=for-the-badge&logo=receiver&logoColor=white" alt="Phone Number" />
       </a>
       <a href="https://zalo.me/0123456789" target="_blank">
-        <img src="https://img.shields.io/badge/Zalo-0123.456.789-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
+        <img src="https://img.shields.io/badge/Zalo-0387.569.374-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
       </a></p>
   </p>
 
