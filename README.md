@@ -52,12 +52,11 @@
   <br><br>
 
 
+<div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
-
 </div>
-
 ---
 
 <div align="center">
@@ -65,15 +64,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Xin+chào!+Tôi+là+Nguyễn+Thị+Ngọc+Thương;Welcome+to+my+GitHub+Profile!" alt="Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenThiNgocThuong&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
----
 
 
 
