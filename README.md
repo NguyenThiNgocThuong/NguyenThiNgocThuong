@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Banner Tiêu Đề Ấn Tượng -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Xin%20chào!%20Tôi%20là%20Nguyễn%20Thị%20Ngọc%20Thương&fontSize=32&fontColor=fff&animation=twinkling" width="100%" />
 
-  <!-- Lượt Xem Profile -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ngocthuong1122&label=Profile%20Views&color=0e75a0&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=NguyenThiNgocThuong&label=Profile%20Views&color=0e75a0&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
@@ -47,17 +45,17 @@
 
   <!-- Hàng 1: Stats & Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngocthuong1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocthuong1122&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 
   <br><br>
 
   <!-- Hàng 2: Streak Stats -->
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocthuong1122&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=tokyonight&hide_border=true" />
   </a>
 
 </div>
