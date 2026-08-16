@@ -2,9 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=NguyenThiNgocThuong&color=brightgreen" alt="Profile views" />
 
-* 🌱 Tôi hiện đang tìm hiểu về **Git, GitHub và phát triển web**.
-* 🔭 Tôi thích khám phá những công nghệ mới và tự tay làm các dự án nhỏ.
-* 📫 Cách liên hệ với tôi: **ngochuong1122tv@gmail.com**
+* Tôi hiện đang tìm hiểu về **Git, GitHub và phát triển web**.
+* Tôi thích khám phá những công nghệ mới và tự tay làm các dự án nhỏ.
+* Cách liên hệ với tôi: **ngochuong1122tv@gmail.com**
 
 ---
 
