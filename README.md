@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  <!-- Hàng 1: Stats & Languages -->
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
@@ -53,7 +53,7 @@
 
   <br><br>
 
-  <!-- Hàng 2: Streak Stats -->
+
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=tokyonight&hide_border=true" />
   </a>
