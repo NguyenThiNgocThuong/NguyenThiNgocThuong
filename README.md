@@ -16,8 +16,15 @@
   - Chào mừng bạn đến với trang GitHub của tôi!<br>
   - Tôi hiện đang tập trung nghiên cứu & phát triển về <b>Git, GitHub, Web Development & Phần mềm</b>.<br>
   - Đam mê khám phá các công nghệ mới, thiết kế sản phẩm sáng tạo và xây dựng các dự án thực tế.<br>
-   <b>Liên hệ:</b> <a href="mailto:ngochuong1122tv@gmail.com">ngochuong1122tv@gmail.com</a>
-</p>
+   <b>Liên hệ:</b> <a href="mailto:ngochuong1122tv@gmail.com">ngochuong1122tv@gmail.com</a><br>
+   <b>Số điện thoại:</b>
+   <p><a href="tel:0123456789">
+        <img src="https://img.shields.io/badge/Phone-0123.456.789-0E75B6?style=for-the-badge&logo=receiver&logoColor=white" alt="Phone Number" />
+      </a>
+      <a href="https://zalo.me/0123456789" target="_blank">
+        <img src="https://img.shields.io/badge/Zalo-0123.456.789-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
+      </a></p>
+  </p>
 
 ---
 
