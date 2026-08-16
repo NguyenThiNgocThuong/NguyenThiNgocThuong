@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Xin%20ch%C3%A0o!%20T%C3%B4i%20l%C3%A0%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Ng%E1%BB%8Dc%20Th%C6%B0%C1%A1ng&fontSize=28&fontAlignY=40" alt="Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Xin+chào!+Tôi+là+Nguyễn+Thị+Ngọc+Thương;Welcome+to+my+GitHub+Profile!" alt="Banner" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Giới thiệu về tôi
+### Giới thiệu về tôi
 
 * Tôi hiện đang tìm hiểu về **Git, GitHub và phát triển web/phần mềm**.
 * Tôi thích khám phá những công nghệ mới và tự tay làm các dự án thực tế.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Công nghệ & Công cụ
+### Công nghệ & Công cụ
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -30,13 +30,13 @@
 
 ---
 
-### 📊 Thống kê hoạt động GitHub
+### Thống kê hoạt động GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
