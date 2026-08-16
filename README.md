@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Xin_chào!_Tôi_là-Nguyễn_Thị_Ngọc_Thương-0E75B6?style=for-the-badge&logo=github" alt="Header Banner" height="45"/>
-</p>
+
+ <h1 align="center"> <img src="https://img.shields.io/badge/Xin_chào!_Tôi_là-Nguyễn_Thị_Ngọc_Thương-0E75B6?style=for-the-badge&logo=github" alt="Header Banner" height="45"/></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenThiNgocThuong&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
