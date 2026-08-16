@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Xin+chào!+Tôi+là+Nguyễn+Thị+Ngọc+Thương;Welcome+to+my+GitHub+Profile!" alt="Banner" />
+  <img src="https://img.shields.io/badge/Xin_chào!_Tôi_là-Nguyễn_Thị_Ngọc_Thương-0E75B6?style=for-the-badge&logo=github" alt="Header Banner" height="45"/>
 </p>
 
 <p align="center">
@@ -33,10 +33,10 @@
 ### Thống kê hoạt động GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThiNgocThuong&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NguyenThiNgocThuong&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NguyenThiNgocThuong&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/0e75b6/NguyenThiNgocThuong" alt="Contribution Graph" width="100%" />
 </p>
