@@ -13,10 +13,10 @@
 ### Giới thiệu về tôi
 
 <p align="left">
-  - Chào mừng bạn đến với trang GitHub của tôi!<br><br>
-  - Tôi hiện đang tập trung nghiên cứu & phát triển về <b>Git, GitHub, Web Development & Phần mềm</b>.<br>
+  - Chào mừng bạn đến với trang GitHub của tôi!<br>
+  - Tôi hiện đang tập trung nghiên cứu & phát triển về <b>Git, GitHub, Web Development & Phần mềm.<br>
   - Đam mê khám phá các công nghệ mới, thiết kế sản phẩm sáng tạo và xây dựng các dự án thực tế.<br>
-   <b>Liên hệ / Hợp tác:</b> <a href="mailto:ngochuong1122tv@gmail.com">ngochuong1122tv@gmail.com</a>
+   <b>Liên hệ:</b> <a href="mailto:ngochuong1122tv@gmail.com">ngochuong1122tv@gmail.com</a>
 </p>
 
 ---
